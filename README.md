@@ -26,7 +26,9 @@ Find out more at [http://www.adobe.com/products/experience-design/features.html]
 
 ---
 
-Maxx Crawford | [@woodenwarship](http://twitter.com/woodenwarship) | Front-end Web Developer and UX Designer at [Brothers and Company](http://broco.com)
-
+**Maxx Crawford**
++ Website: [maxxcrawford.com](http://maxxcrawford.com)
++ Twitter: [@woodenwarship](http://twitter.com/woodenwarship)
++ Job: Front-end Web Developer and UX Designer at [Brothers and Company](http://broco.com)
 
 
